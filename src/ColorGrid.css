@@ -1,0 +1,8 @@
+.colorGrid {
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    height: 800px;
+    flex-wrap: nowrap;
+    flex-flow: wrap;
+}
